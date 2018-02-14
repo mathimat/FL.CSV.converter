@@ -26,7 +26,7 @@ Disclaimer:
 The script WILL return errors, this is normal...
 
 
-Contact M.Mathisen if you find erros when importing to FlyLogio.
+Contact me if you find erros when importing to FlyLogio.
 
 ----
 
